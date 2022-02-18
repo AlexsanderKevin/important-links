@@ -40,6 +40,7 @@ h1{
 a{
     display: flex;
     justify-content: space-between;
+    align-items: center;
     padding: 10px 40px;
     background-color: rgb(37, 37, 37);
     font-size: 20pt;
@@ -55,6 +56,11 @@ a:hover{
 
 a div{
     display: none;
+    font-size: 30pt;
+}
+
+a.active{
+    height: 60px;
 }
 
 a.active div{
@@ -73,12 +79,18 @@ a.active div{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding: 50px;
     animation: .5s slideToRight forwards;
+    padding: 50px;
 }
 
 .description.active{
     display: flex;
+}
+
+.description-text{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
 }
 
 .description-text li{
@@ -86,11 +98,17 @@ a.active div{
     color: #aaa;
 }
 
+.description-header{
+    margin-bottom: 50px;
+}
+
 @keyframes slideToRight{
     from{
         transform: translate3d( -20px, 0, 0);
+        opacity: 0;
     }
     to{
         transform: translate3d(0,0,0);
+        opacity: 1;
     }
 }

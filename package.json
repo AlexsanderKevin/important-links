@@ -1,0 +1,14 @@
+{
+    "name": "important-links",
+    "version": "1.0",
+    "description": "the most used links during the procedures",
+    "main": "important-links.js",
+    "scripts": {
+        "test": "echo\"Error:no test specified\" && exit 1",
+        "start": "nodemon important-links.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1",
+        "nodemon": "^2.0.15"
+    }
+}
