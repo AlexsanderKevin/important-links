@@ -1,0 +1,70 @@
+[
+    {
+        "title": "SAP",
+        "departments": [
+            "analise",
+            "embalagem",
+            "teste",
+            "burnin"
+        ],
+        "description": [
+            "Registre a conclusão das máquinas.",
+            "Consulte a DPK de máquinas cujas placas foram trocadas."
+        ],
+        "url": "http://cs.lenovo.com/sap(bD1wdCZjPTMwMSZkPW1pbg==)/crm_logon/default.htm?sap-client=301&sap-language=PT",
+        "color": "#77BCD2"
+    },
+    {
+        "title": "DPK",
+        "department": [
+            "teste"
+        ],
+        "description": [
+            "Registre a DPK que foi inserida em uma máquina, bem como o Serial Number da mesma."
+        ],
+        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=KAt9XPi9DEGqk03zcrFiAwL4ixDqRkBApsMQRJgiDkJUQUc1T0hGMVpUUlVQSVFEUlpLQ0dHRjNSSy4u",
+        "color": "#6CC0A7"
+    },
+    {
+        "title": "Support Drivers",
+        "department": [
+            "analise",
+            "teste"
+        ],
+        "description": [
+            "Consulta de versão da BIOS.",
+            "Download de BIOS.",
+            "Download de driver de touchpad.",
+            "Download de driver de câmera.",
+            "Download de driver de áudio."
+        ],
+        "url": "https://pcsupport.lenovo.com/br/pt/",
+        "color": "#7E8EC8"
+    },
+    {
+        "title": "iBase",
+        "department": [
+            "analise",
+            "teste"
+        ],
+        "description": [
+            "Consulte todas as informações a respeito de cada peça de cada máquina fabricada."
+        ],
+        "url": "http://csp.lenovo.com/ibinapp/il/Login.jsp",
+        "color": "#D17777"
+    },
+    {
+        "title": "COVID",
+        "department": [
+            "analise",
+            "teste",
+            "embalagem",
+            "burnin"
+        ],
+        "description": [
+            "Faça uma auto-avaliação e responda o questionário em relação ao COVID"
+        ],
+        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=KAt9XPi9DEGqk03zcrFiA4FJoczDLDNGlK8JOpVB9xxUQ0ZPRkQyTTZBRjIxUU9GQTI5M0NKTFJRWC4u",
+        "color": "#D75A5A"
+    }
+]
