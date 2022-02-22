@@ -66,5 +66,19 @@
         ],
         "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=KAt9XPi9DEGqk03zcrFiA4FJoczDLDNGlK8JOpVB9xxUQ0ZPRkQyTTZBRjIxUU9GQTI5M0NKTFJRWC4u",
         "color": "#D75A5A"
+    },
+    {
+        "title": "Sincronização de Senha",
+        "department": [
+            "analise",
+            "teste",
+            "embalagem",
+            "burnin"
+        ],
+        "description": [
+            "Sempre que for solicitado alteração de senha da máquina, após a alteração deve-se sincronizar para que todos os acessos Lenovo utilizem a nova senha."
+        ],
+        "url": "https://password.lenovo.com/SynicPassword.aspx",
+        "color": "#D75A5A"
     }
 ]
