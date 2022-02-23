@@ -3,6 +3,6 @@ const app = express()
 
 app.use(express.static('public'))
 
-app.listen(3003, ()=>{
-    console.log(`Running at port: 3003`)
+app.listen(3002, ()=>{
+    console.log(`Running at port: 3002`)
 })
