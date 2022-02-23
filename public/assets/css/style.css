@@ -75,7 +75,7 @@ a.active{
 
 a.active div{
     display: initial;
-    animation: .5s slideToRight forwards;
+    animation: .8s slideToRight forwards;
 }
 
 .links{

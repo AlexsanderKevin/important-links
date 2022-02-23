@@ -54,20 +54,6 @@
         "color": "#D17777"
     },
     {
-        "title": "COVID",
-        "department": [
-            "analise",
-            "teste",
-            "embalagem",
-            "burnin"
-        ],
-        "description": [
-            "Faça uma auto-avaliação e responda o questionário em relação ao COVID"
-        ],
-        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=KAt9XPi9DEGqk03zcrFiA4FJoczDLDNGlK8JOpVB9xxUQ0ZPRkQyTTZBRjIxUU9GQTI5M0NKTFJRWC4u",
-        "color": "#D75A5A"
-    },
-    {
         "title": "Sincronização de Senha",
         "department": [
             "analise",
@@ -79,6 +65,31 @@
             "Sempre que for solicitado alteração de senha da máquina, após a alteração deve-se sincronizar para que todos os acessos Lenovo utilizem a nova senha."
         ],
         "url": "https://password.lenovo.com/SynicPassword.aspx",
+        "color": "#7CCC7F"
+    },
+    {
+        "title": "Form Reincidência",
+        "department": [
+            "analise"
+        ],
+        "description": [
+            "Categorize seus casos de reincidencia."
+        ],
+        "url": "https://forms.office.com/Pages/DesignPage.aspx?lang=en-US&origin=OfficeDotCom&route=Start#FormId=KAt9XPi9DEGqk03zcrFiA5reohiBs5NJp6uJcxUtFHVUNjJORkdRQktSOTNNRjgzNEtLRFM1NFM2UC4u",
+        "color": "#DADD5E"
+    },
+    {
+        "title": "COVID",
+        "department": [
+            "analise",
+            "teste",
+            "embalagem",
+            "burnin"
+        ],
+        "description": [
+            "Faça uma auto-avaliação e responda o questionário em relação ao COVID"
+        ],
+        "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=KAt9XPi9DEGqk03zcrFiA4FJoczDLDNGlK8JOpVB9xxUQ0ZPRkQyTTZBRjIxUU9GQTI5M0NKTFJRWC4u",
         "color": "#D75A5A"
     }
 ]
