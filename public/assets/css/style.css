@@ -115,6 +115,10 @@ a.active div{
     display: flex;
     flex-direction: column;
     gap: 20px;
+    background: #101010;
+    padding: 30px;
+    padding-left: 40px;
+    border-radius: 10px;
 }
 
 .description-text li{
