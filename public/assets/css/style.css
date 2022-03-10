@@ -23,13 +23,13 @@ body{
 }
 
 ::-webkit-scrollbar-thumb {
-    background: #999;
+    background: #555;
     border-radius: 10px;
     margin-left: 10px;
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #ddd;
+    background: #999;
 }
 
 .links-container{
