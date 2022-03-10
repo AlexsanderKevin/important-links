@@ -22,7 +22,8 @@
             "teste"
         ],
         "description": [
-            "Registre a DPK que foi inserida em uma máquina, bem como o Serial Number da mesma."
+            "Registre a DPK que foi inserida em uma máquina, bem como o Serial Number da mesma.",
+            "No SAP e iBase é possível obter a DPK."
         ],
         "url": "https://forms.office.com/Pages/ResponsePage.aspx?id=KAt9XPi9DEGqk03zcrFiAwL4ixDqRkBApsMQRJgiDkJUQUc1T0hGMVpUUlVQSVFEUlpLQ0dHRjNSSy4u",
         "color": "#6CC0A7"
