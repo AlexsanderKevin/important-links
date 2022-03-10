@@ -9,7 +9,9 @@
         ],
         "description": [
             "Registre a conclusão das máquinas.",
-            "Consulte a DPK de máquinas cujas placas foram trocadas."
+            "Consulte o histórico de alterações da máquina.",
+            "Consulte a descrição dos defeitos",
+            "Notas do call center"
         ],
         "url": "http://cs.lenovo.com/sap(bD1wdCZjPTMwMSZkPW1pbg==)/crm_logon/default.htm?sap-client=301&sap-language=PT",
         "color": "#77BCD2"
